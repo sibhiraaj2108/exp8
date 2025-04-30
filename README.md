@@ -223,6 +223,7 @@ The program for designing an interactive image gallery using HTML, CSS and JavaS
 ```
 ## OUTPUT:
 ![Screenshot 2025-04-30 214354](https://github.com/user-attachments/assets/c966c285-76f5-4327-bacb-ebac01076e53)
-![Uploading Screenshot 2025-04-30 214822.png…]()
+![Screenshot 2025-04-30 214822](https://github.com/user-attachments/assets/a9e37c7b-5151-4b7e-9508-57e2f1eef0dd)
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
